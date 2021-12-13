@@ -1,0 +1,16 @@
+C:\Users\Kristina\source\repos\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+C:\Users\Kristina\source\repos\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.GenerateResource.cache
+C:\Users\Kristina\source\repos\Calculator\obj\Debug\netcoreapp3.1\Calculator.Form1.resources
+C:\Users\Kristina\source\repos\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\Users\Kristina\source\repos\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\Kristina\source\repos\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\Users\Kristina\source\repos\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\Users\Kristina\source\repos\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\Kristina\source\repos\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\Kristina\source\repos\Calculator\obj\Debug\netcoreapp3.1\Calculator.Properties.Resources.resources
+C:\Users\Kristina\source\repos\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\Kristina\source\repos\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\Kristina\source\repos\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\source\repos\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\Kristina\source\repos\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\Kristina\source\repos\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
